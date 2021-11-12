@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFrameworks>net6.0;</TargetFrameworks>
+        <LangVersion>latest</LangVersion>
+        <Nullable>enable</Nullable>
+        <AnalysisLevel>latest</AnalysisLevel>
+        <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+        <Copyright>Copyright © 2021 ONEO（https://github.com/1217950746）. All rights reserved.</Copyright>
+    </PropertyGroup>
+</Project>
